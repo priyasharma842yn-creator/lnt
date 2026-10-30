@@ -1,0 +1,9 @@
+Ref,Qty,Value,Footprint,Description
+U1,1,NE555,Package_DIP:DIP-8_W7.62mm,555 timer IC
+R1,1,1k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Timing resistor
+R2,1,47k,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,Timing resistor
+R3,1,470,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,LED current limiting
+C1,1,10uF,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,Timing capacitor
+C2,1,10nF,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,Control pin bypass
+D1,1,LED,LED_THT:LED_D5.0mm,Flasher LED
+J1,1,Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,9V power input
